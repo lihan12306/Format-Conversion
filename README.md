@@ -3,7 +3,7 @@
 
 #在powershell中运行下面代码
 
-Invoke-PS2EXE -InputFile "d:\Videos\VideoFixer\VideoFixer.ps1" `
+PS D:\Videos> Invoke-PS2EXE -InputFile "d:\Videos\VideoFixer\VideoFixer.ps1" `
 >>     -OutputFile "d:\Videos\VideoFixer.exe" `
 >>     -NoConsole `
 >>     -Title "视频修复工具" `
