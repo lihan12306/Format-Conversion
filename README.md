@@ -2,6 +2,7 @@
 将b站缓存视频转换成MP4格式
 
 #在powershell中运行下面代码
+
 Invoke-PS2EXE -InputFile "d:\Videos\VideoFixer\VideoFixer.ps1" `
 >>     -OutputFile "d:\Videos\VideoFixer.exe" `
 >>     -NoConsole `
@@ -11,3 +12,4 @@ Invoke-PS2EXE -InputFile "d:\Videos\VideoFixer\VideoFixer.ps1" `
 
 就会生成VideoFixer.exe文件，也可以直接运行上传的VideoFixer.exe文件
 根据提示操作即可
+![屏幕截图](https://github.com/user-attachments/assets/a737da7d-29c3-4fdc-aebc-8ee7e2ab5213)
