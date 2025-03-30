@@ -7,4 +7,7 @@ Invoke-PS2EXE -InputFile "d:\Videos\VideoFixer\VideoFixer.ps1" -OutputFile "d:\V
 ```
 就会生成VideoFixer.exe文件，也可以直接运行上传的VideoFixer.exe文件
 根据提示操作即可
-![屏幕截图](https://github.com/user-attachments/assets/a737da7d-29c3-4fdc-aebc-8ee7e2ab5213){:style="width:300px; height:auto"}
+<div align="center">
+  <img src="![屏幕截图](https://github.com/user-attachments/assets/a737da7d-29c3-4fdc-aebc-8ee7e2ab5213)" width="60%">
+</div>
+
